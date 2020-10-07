@@ -23,6 +23,6 @@ cd dog-project
 4. Donwload the [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset.  Place it in the repo, at location `path/to/dog-project/bottleneck_features`.
 5. Open the notebook.
 ```
-jupyter notebook dog_app.ipynb
+jupyter notebook dog_app-zh.ipynb
 ```
 
